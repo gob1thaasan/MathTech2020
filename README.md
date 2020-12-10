@@ -1,6 +1,7 @@
 # MathTech2020
-two Hours Workshop on TDA
+## Two Hours Workshop on TDA
 This demo shows how to start using TDA using Scikit-TDA, Gudhi and Giotto-TDA.
+
 
 Please cite as:
 
